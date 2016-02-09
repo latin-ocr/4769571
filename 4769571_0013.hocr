@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4769571_0013.png"; bbox 0 0 2730 3461; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1273 1400 1348 1442">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1273 1400 1348 1442">
+     <span class='ocr_line' id='line_1_1' title="bbox 1273 1400 1348 1442; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1273 1400 1348 1442; x_wconf 82' lang='lat' dir='ltr'>DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 349 1520 2279 1741">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 349 1520 2279 1741">
+     <span class='ocr_line' id='line_1_2' title="bbox 349 1520 2279 1607; baseline -0.008 0"><span class='ocrx_word' id='word_1_2' title='bbox 349 1532 858 1607; x_wconf 69' lang='lat' dir='ltr'>VERSIBVS</span> <span class='ocrx_word' id='word_1_3' title='bbox 901 1525 1654 1604; x_wconf 75' lang='lat' dir='ltr'><strong>ANAPAESTIOIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1696 1521 2075 1597; x_wconf 78' lang='lat' dir='ltr'>PLAVTI</span> <span class='ocrx_word' id='word_1_5' title='bbox 2092 1520 2279 1593; x_wconf 70' lang='lat' dir='ltr'>MS.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1100 1691 1536 1741; baseline -0.007 0"><span class='ocrx_word' id='word_1_6' title='bbox 1100 1693 1276 1741; x_wconf 72' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1309 1691 1536 1741; x_wconf 78' lang='lat' dir='ltr'>PRIOR..</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
